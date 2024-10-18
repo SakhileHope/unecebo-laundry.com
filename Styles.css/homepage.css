@@ -1,0 +1,84 @@
+
+.washing {
+    display: flex;
+}
+
+ul {
+    padding-top: 100px;
+    display: grid;
+    
+}
+
+h3 {
+    text-align: center;
+}
+
+.ironing-and-folding{
+    display: flex;
+    justify-content: flex-end;
+}
+
+/* Navigation wrapper */
+
+.logo-image img {
+    width: 200px;
+    height: 200px;
+    padding-left: 3px;
+    
+}
+
+.horizontal-column {
+    /* display: flex; */
+    justify-content: center;
+    background: greenyellow;
+}
+
+.center-column {
+    display: grid;
+    
+    
+}
+
+.horizontal-column > .address {
+    display: block;
+    
+}
+
+.nav-wrapper {
+    display: flex;
+    justify-content: center; 
+    
+    
+}
+
+
+.service-colour-background {
+    background: rgb(9, 224, 231);
+    
+    
+}
+
+
+.washing {
+    padding-left: 50px;
+    border-top: 5px solid white;
+    
+}
+
+.ironing-and-folding {
+    padding-right: 50px;
+}
+
+
+.nav-link {
+    font-size: small;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
